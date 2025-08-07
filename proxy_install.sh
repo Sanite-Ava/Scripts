@@ -206,7 +206,7 @@ if [ "$choice" -eq 1 ]; then
     echo "   UUID: ${XRAY_UUID}"
     echo "   公钥 (PublicKey): ${PUBLIC_KEY}"
     echo "   Short ID: ${SHORT_ID}"
-    echo "   SNI (Server Name): www.microsoft.com"
+    echo "   SNI (Server Name): speed.cloudflare.com"
     echo "   安全协议: reality"
     echo "   Flow: xtls-rprx-vision"
     echo ""
